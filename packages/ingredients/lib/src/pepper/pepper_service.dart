@@ -14,7 +14,6 @@ class Pepper {
 
   @override
   String toString() {
-    // TODO: implement toString
     return "Pepper(blended: ${blended}";
   }
 }
